@@ -1,5 +1,9 @@
 {
 	"values": [
-	"rd:load"
+	"rd:load",
+	"name_colors:load",
+	"name_colors:schedule",
+	"timber:init",
+	"timber:main"
 	]
 }
