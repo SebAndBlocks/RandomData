@@ -9,6 +9,8 @@
 #### Name any entity "satin". NOTE: Your Entity will DIE.
 ### Colourful Rings
 #### Name any entity "rings". NOTE: Your Entity will DIE.
+### Name Colours
+#### Run The Command: "/function name_colors:info" and choose your color. A preview will appear in chat.
 
 ## How It's made
 ### Paticles
